@@ -1,3 +1,11 @@
+## How To Set Up
+```shell
+poetry shell
+```
+```shell
+poetry install
+```
+
 ### Usage Examples
 
 - **Create a note**:
